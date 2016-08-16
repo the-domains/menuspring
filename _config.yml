@@ -1,0 +1,14 @@
+layout_spectrum: 0.6206815007608384
+typography_spectrum: 0.7483925053384155
+color:
+  brandStrength: 0.508466660277918
+  lightness: 0.6201345808804035
+  saturation: 0.1278866590000689
+  rhythmicContrast: 0.9175355951301754
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: menuspring
